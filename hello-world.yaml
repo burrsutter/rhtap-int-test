@@ -5,7 +5,7 @@ metadata:
 spec:
   params:
   - name: username
-    default: world
+    default: Burr
   tasks:
   - name: task-1
     params:
